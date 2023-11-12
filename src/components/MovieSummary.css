@@ -1,0 +1,9 @@
+.details {
+    display: flex;
+    flex-direction: row;
+    color: orange;
+}
+
+.details p {
+    margin: 10px;
+}

@@ -1,0 +1,13 @@
+.Header {
+    background-color: rgb(179, 204, 216);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+.Header h1 {
+    color: rgb(207, 126, 20);
+}
+
+.Header a.active {
+    color: #213547;
+}
